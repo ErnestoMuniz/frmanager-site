@@ -34,7 +34,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-#### vAlpha 0.1
+\<div class="note">
+
+vAlpha 0.1
 
 *   Added Radchek Crud
 
@@ -45,3 +47,5 @@ layout: page
 *   Added Radreply Crud
 
 *   Added Radreply Crud
+
+\</div>
