@@ -139,7 +139,7 @@ seo:
     - name: 'twitter:title'
       value: frManager - Home
     - name: 'twitter:description'
-      value: The preview of the Libris theme
+      value: The Open Source FreeRadius Manager!
     - name: 'twitter:image'
       value: images/frmanager.png
       relativeUrl: true
