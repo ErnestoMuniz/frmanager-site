@@ -1,6 +1,6 @@
 ---
 title: Installation
-excerpt: In this section you'll find basic information about Libris and how to use it.
+excerpt: This is the installation section.
 seo:
   title: Installation
   description: This is the Installation page
