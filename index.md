@@ -84,8 +84,8 @@ sections:
     type: section_content
     title: Willing to help me?
     content: >
-      As we are \*\*Free! Forever! \*\*We won't ever charge you anything. But if
-      you feel like helping me, well, THANK YOU VERY MUCH ❤️.
+      As we are **Free! Forever!** We won't ever charge you anything. But if you
+      feel like helping me, well, **THANK YOU VERY MUCH** ❤️.
 
 
       There's a list of what you can do to help me:
