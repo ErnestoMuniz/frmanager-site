@@ -15,7 +15,7 @@
             },
             {
                 "label": "Changelog",
-                "url": "/style-guide",
+                "url": "/changelog",
                 "style": "link",
                 "has_subnav": false
             },
