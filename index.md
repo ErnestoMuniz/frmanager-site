@@ -125,7 +125,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Libris Theme
+      value: frManager - Home
       keyName: property
     - name: 'og:description'
       value: The Open Source FreeRadius Manager!
