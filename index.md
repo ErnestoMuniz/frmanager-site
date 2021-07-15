@@ -103,7 +103,7 @@ sections:
         style: primary
       - label: lorem-ipsum
         url: '#'
-        style: link
+        style: secondary
         icon_class: dev
         new_window: false
         no_follow: false
