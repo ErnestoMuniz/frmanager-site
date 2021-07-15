@@ -98,7 +98,7 @@ sections:
       *   Contribute to the code also on the
       [GitHub](https://github.com/ErnestoMuniz/FreeRadiusManager)
     actions:
-      - label: Get Started
+      - label: Buy me a Coffee
         url: /docs/getting-started/installation
         style: primary
     image: images/coffee-badge.png
