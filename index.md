@@ -57,10 +57,25 @@ sections:
     image: images/robust-lavender.png
     image_position: left
     title: A Full Featured admin panel
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Don't worry about the need of command line anymore. Let frManager do it
+      for you!
+
+
+      We have a full featured admin panel that able you to manage all your
+      servers and users in the confort of an elegant panel.
+
+
+      We provide you:
+
+
+      *   User and Server Management
+
+
+      *   Logs visualization
+
+
+      *   Graphic and metrics dashboard
     actions:
       - label: View Demo
         url: /docs/getting-started
