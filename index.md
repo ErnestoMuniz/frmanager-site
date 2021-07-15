@@ -95,7 +95,7 @@ sections:
             style: link
   - section_id: cta
     type: section_cta
-    title: The Title of The Call to Action Block
+    title: Ready to give it a try?
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
