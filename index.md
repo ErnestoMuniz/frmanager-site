@@ -83,7 +83,20 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: Willing to help me?
-    content: "As we are **Free! Forever! **We won't ever charge you anything. But if you feel like helping me, well, THANK YOU VERY MUCH ❤️.\n\nThere's a list of what you can do to help me:\n\n*   Contribute with a star on the [GitHub Repo ⭐️](https://github.com/ErnestoMuniz/FreeRadiusManager)\n\n*   Contribute to the code also on the [GitHub](https://github.com/ErnestoMuniz/FreeRadiusManager)\n\n*   [Buy me a Coffee ☕️](https://www.buymeacoffee.com/ernestomuniz)\n\n*   Me envie um PIX \U0001F1E7\U0001F1F7 chave: ***eu@ernesto.net.br***\n\n*   Ou pelo QR Code ![](images/photo\\_2021-07-15\\_11-29-19.jpg)\n"
+    content: >
+      As we are \*\*Free! Forever! \*\*We won't ever charge you anything. But if
+      you feel like helping me, well, THANK YOU VERY MUCH ❤️.
+
+
+      There's a list of what you can do to help me:
+
+
+      *   Contribute with a star on the [GitHub Repo
+      ⭐️](https://github.com/ErnestoMuniz/FreeRadiusManager)
+
+
+      *   Contribute to the code also on the
+      [GitHub](https://github.com/ErnestoMuniz/FreeRadiusManager)
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
