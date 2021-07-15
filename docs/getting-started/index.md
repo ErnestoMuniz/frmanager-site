@@ -1,25 +1,25 @@
 ---
-title: Instalation
+title: Installation
 excerpt: In this section you'll find basic information about Libris and how to use it.
 seo:
-  title: Instalation
-  description: This is the Instalation page
+  title: Installation
+  description: This is the Installation page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Instalation
+      value: Installation
       keyName: property
     - name: 'og:description'
-      value: This is the Instalation page
+      value: This is the Installation page
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Instalation
+      value: Installation
     - name: 'twitter:description'
-      value: This is the Instalation page
+      value: This is the Installation page
 layout: docs
 ---
 
