@@ -141,7 +141,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Libris theme
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/frmanager.png
       relativeUrl: true
 layout: advanced
 ---
