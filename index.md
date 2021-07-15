@@ -18,6 +18,10 @@ sections:
         content: >
           If you need any information about installation or configuration of the
           software, please, consult our documentation.
+
+
+          If you can't find what you need here, feel free to contact us via
+          email ***support@ernesto.net.br***.
         actions:
           - label: Get Started
             url: /docs
