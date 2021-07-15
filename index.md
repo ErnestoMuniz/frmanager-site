@@ -118,7 +118,7 @@ sections:
         url: /docs/getting-started/installation
         style: primary
 seo:
-  title: Stackbit Libris Theme
+  title: frManager - Home
   description: The preview of the Libris theme
   extra:
     - name: 'og:type'
