@@ -54,7 +54,7 @@ sections:
         type: grid_item
   - section_id: text-img
     type: section_content
-    image: images/frmanager-screen.png
+    image: images/robust-lavender.png
     image_position: left
     title: A Section With An Image
     content: >-
