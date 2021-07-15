@@ -3,7 +3,7 @@
     "palette": "blue",
     "header": {
         "title": "FRMANAGER",
-        "logo_img": "images/frmanager.png",
+        "logo_img": "images/diligent-tiger.png",
         "logo_img_alt": "Libris logo",
         "has_nav": true,
         "nav_links": [
