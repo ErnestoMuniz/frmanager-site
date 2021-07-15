@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-\<div class="warning">
+\<div class="warning">teste\</div>
 
 vAlpha 0.1
 
@@ -48,4 +48,3 @@ vAlpha 0.1
 
 *   Added Radreply Crud
 
-\</div>
