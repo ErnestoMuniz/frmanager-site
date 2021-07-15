@@ -109,7 +109,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-    image: images/kind-daffodil.png
+    image: images/enthusiastic-stegosaurus.png
     image_position: right
   - section_id: cta
     type: section_cta
