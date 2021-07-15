@@ -34,7 +34,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: link
-      - title: lorem-ipsum
+      - title: "Found a Bug?\_\U0001F41E"
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
