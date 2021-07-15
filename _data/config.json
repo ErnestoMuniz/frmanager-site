@@ -54,5 +54,6 @@
             }
         ]
     },
-    "domain": "https://frmanager.netlify.app"
+    "domain": "https://frmanager.netlify.app",
+    "favicon": "images/download.png"
 }
