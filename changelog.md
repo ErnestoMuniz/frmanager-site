@@ -34,9 +34,19 @@ seo:
       relativeUrl: true
 layout: page
 ---
-\<div class="warning">teste\</div>
+#### vAlpha 0.3
 
-vAlpha 0.1
+*   Added User, Radchecks, Radreply, Radaccts and Radpostauths Metrics
+
+*   Added Radaccts and Radpostauths monthly graphics
+
+#### vAlpha 0.2
+
+*   Modified login page
+
+*   Hidden passwords on Radcheck edit and create
+
+#### vAlpha 0.1
 
 *   Added Radchek Crud
 
@@ -47,4 +57,3 @@ vAlpha 0.1
 *   Added Radreply Crud
 
 *   Added Radreply Crud
-
