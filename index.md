@@ -99,7 +99,7 @@ sections:
       [GitHub](https://github.com/ErnestoMuniz/FreeRadiusManager)
     actions:
       - label: "Buy me a Coffee\_☕️"
-        url: /docs/getting-started/installation
+        url: 'https://www.buymeacoffee.com/ernestomuniz'
         style: primary
     image: images/coffee-badge.png
     image_position: right
