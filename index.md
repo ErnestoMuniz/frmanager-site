@@ -5,9 +5,7 @@ sections:
     type: section_hero
     title: Free! Forever!
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: "frManager is an Open Source FreeRadius management software, you can use it as you please \U0001F642\n"
     actions:
       - label: Get Started
         url: /docs
