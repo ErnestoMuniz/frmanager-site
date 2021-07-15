@@ -14,7 +14,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Read the Docs
+      - title: "Read the Docs\_\U0001F4D3"
         content: >
           If you need any information about installation or configuration of the
           software, please, consult our documentation.
