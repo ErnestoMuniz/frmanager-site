@@ -37,17 +37,19 @@ sections:
       - title: "Found a Bug?\_\U0001F41E"
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          If you found any bug, security breach or unusual behavior in the
+          software, please, contact us.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          We would love to know more about and fix it. Contact channels:
 
 
-          - Lorem ipsum
+          *   ***support@ernesto.net.br***
 
-          - dolor sit amet
+
+          *   [Github
+          issues](https://github.com/ErnestoMuniz/FreeRadiusManager/issues)
         actions: []
         type: grid_item
   - section_id: text-img
