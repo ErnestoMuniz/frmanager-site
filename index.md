@@ -101,6 +101,7 @@ sections:
       - label: "Buy me a Coffee\_☕️"
         url: 'https://www.buymeacoffee.com/ernestomuniz'
         style: primary
+        new_window: true
       - label: "Me faça um PIX\_\U0001F1E7\U0001F1F7"
         url: 'https://imgur.com/a/Lcaeeto'
         style: secondary
