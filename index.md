@@ -56,7 +56,7 @@ sections:
     type: section_content
     image: images/robust-lavender.png
     image_position: left
-    title: A Section With An Image
+    title: A Full Featured admin panel
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
