@@ -101,7 +101,7 @@ sections:
       - label: "Buy me a Coffee\_☕️"
         url: 'https://www.buymeacoffee.com/ernestomuniz'
         style: primary
-      - label: lorem-ipsum
+      - label: "Me faça um PIX\_\U0001F1E7\U0001F1F7"
         url: '#'
         style: secondary
         icon_class: dev
