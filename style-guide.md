@@ -1,6 +1,6 @@
 ---
 title: Changelog
-subtitle: The style guide provides you with a blueprint of default post and page styles.
+subtitle: Here you can take a look at all changes we made in the project
 image: images/5.jpg
 seo:
   title: Theme Style Guide
