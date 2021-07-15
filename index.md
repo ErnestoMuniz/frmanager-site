@@ -32,7 +32,7 @@ sections:
           changelog page and see what we are working on!
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /changelog
             style: link
       - title: "Found a Bug?\_\U0001F41E"
         title_url: lorem-ipsum
