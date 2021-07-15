@@ -14,12 +14,6 @@
                 "has_subnav": false
             },
             {
-                "label": "Docs",
-                "url": "/docs",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link",
