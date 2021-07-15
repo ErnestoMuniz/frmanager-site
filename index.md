@@ -102,7 +102,7 @@ sections:
         url: 'https://www.buymeacoffee.com/ernestomuniz'
         style: primary
       - label: "Me faça um PIX\_\U0001F1E7\U0001F1F7"
-        url: '#'
+        url: 'https://imgur.com/a/Lcaeeto'
         style: secondary
         icon_class: dev
         new_window: false
