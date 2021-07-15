@@ -106,7 +106,7 @@ sections:
         url: 'https://imgur.com/a/Lcaeeto'
         style: secondary
         icon_class: dev
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     image: images/coffee-badge.png
