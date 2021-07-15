@@ -92,6 +92,7 @@ sections:
         url: /docs/getting-started/installation
         style: primary
     image: images/coffee-badge.png
+    image_position: right
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
