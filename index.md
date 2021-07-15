@@ -77,7 +77,7 @@ sections:
 
       *   Graphic and metrics dashboard
     actions:
-      - label: View Demo
+      - label: Get Started
         url: /docs/getting-started
         style: primary
       - label: Get Started
