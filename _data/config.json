@@ -2,7 +2,7 @@
     "title": "Stackbit Libris Theme",
     "palette": "blue",
     "header": {
-        "title": "Libris",
+        "title": "FRMANAGER",
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Libris logo",
         "has_nav": true,
