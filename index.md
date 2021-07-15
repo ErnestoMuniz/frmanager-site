@@ -101,6 +101,13 @@ sections:
       - label: "Buy me a Coffee\_☕️"
         url: 'https://www.buymeacoffee.com/ernestomuniz'
         style: primary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     image: images/coffee-badge.png
     image_position: right
   - section_id: features-two-col
