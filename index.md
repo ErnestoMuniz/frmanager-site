@@ -131,7 +131,7 @@ seo:
       value: The Open Source FreeRadius Manager!
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/frmanager.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
