@@ -25,7 +25,8 @@
                 "style": "primary",
                 "has_subnav": false
             }
-        ]
+        ],
+        "url": "/"
     },
     "footer": {
         "content": "Made with ❤️ and Jekyll - Ernesto Muniz",
