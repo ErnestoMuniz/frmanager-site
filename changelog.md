@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-\<div class="note">
+\<div class="warning">
 
 vAlpha 0.1
 
