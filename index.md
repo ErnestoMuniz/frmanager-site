@@ -119,8 +119,7 @@ sections:
         style: primary
 seo:
   title: frManager - Home
-  description: |
-    The Open Source FreeRadius Manager
+  description: The Open Source FreeRadius Manager!
   extra:
     - name: 'og:type'
       value: website
