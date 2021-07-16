@@ -27,7 +27,7 @@ layout: docs
 
 First you will need to create the `frmanager.cong` file inside your `/etc/apache2/sites-available/` folder:
 
-After that edit the following configuration file according to your needs and put it in yout frmanager.conf file:
+After that edit the following configuration file according to your needs and put it in yout `frmanager.conf` file:
 
 ```html
 <VirtualHost \*:80>
