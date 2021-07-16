@@ -22,21 +22,26 @@ seo:
       value: This is the Installation page
 layout: docs
 ---
-
 First of all clone the repository inside your `/var/www/` directory:
+
 ```bash
 cd /var/www
 git clone https://github.com/ErnestoMuniz/FreeRadiusManager.git
 ```
+
 Then install the needed composer packages:
+
 ```bash
 cd FreeRadiusManager/
 composer update
 ```
+
 Make a copy of the `.env.example` file and edit the FreeRadius database connection:
+
 ```bash
 cp .env.example .env
 ```
+
 ```env
 ...
 DB_CONNECTION=mysql
@@ -47,30 +52,44 @@ DB_USERNAME=root
 DB_PASSWORD=
 ...
 ```
+
 Generate your application key and run migrations:
+
 ```bash
 php artisan key:generate
 php artisan migrate:refresh --seed
 ```
+
 Run the `activate.sh` script:
+
 ```bash
 sh activate.sh
 ```
-After that configure your apache virtual host:
-```config
-<VirtualHost *:80>
-    ServerAdmin webmaster@localhost
-    ServerName appname.com
-    ServiceAlias www.appname.com
-    DocumentRoot /var/www/appname/public
 
-    <Directory "/var/www/appname/public">
-            Options FollowSymLinks
+After that configure your apache virtual host:
+
+\<VirtualHost \*:80>
+ServerAdmin webmaster@localhost
+ServerName frmanager.local
+DocumentRoot /var/www/FreeRadiusManager/public
+
+    <Directory "/var/www/FreeRadiusManager/public">
+            Options FollowSymLinks MultiViews
+            Order Allow,Deny
+            Allow from all
+            AllowOverride All
             ReWriteEngine On
     </Directory>
 
     ErrorLog ${APACHE_LOG_DIR}/error.log
     CustomLog ${APACHE_LOG_DIR}/access.log combined
-</VirtualHost>
-```
+
+\</VirtualHost>
+
+Then you must enable Apache Rewrite Module with:
+
+
+
+sudo a2enmod rewrite
+
 Now your frManager should be ready to use =D
