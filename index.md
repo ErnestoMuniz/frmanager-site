@@ -115,7 +115,7 @@ sections:
     title: Ready to give it a try?
     actions:
       - label: Get Started
-        url: /docs/getting-started/installation
+        url: /docs
         style: primary
 seo:
   title: frManager - Home
