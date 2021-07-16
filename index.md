@@ -141,7 +141,7 @@ seo:
     - name: 'twitter:description'
       value: The Open Source FreeRadius Manager!
     - name: 'twitter:image'
-      value: images/frmanager.png
+      value: images/frmanager-screen.png
       relativeUrl: true
 layout: advanced
 ---
