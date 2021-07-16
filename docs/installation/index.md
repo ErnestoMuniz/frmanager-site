@@ -90,8 +90,8 @@ DocumentRoot /var/www/FreeRadiusManager/public
 
 Then you must enable Apache Rewrite Module with:
 
-
-
+```bash
 sudo a2enmod rewrite
+```
 
 Now your frManager should be ready to use =D
