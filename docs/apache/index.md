@@ -54,6 +54,9 @@ Then you must enable Apache Rewrite Module with:
 ```bash
 sudo a2enmod rewrite
 ```
-
+Enable your virtual host with:
+```bash
+a2ensite enable frmanager.conf
+```
 
 Now your frManager should be ready to use =D
