@@ -25,7 +25,7 @@ seo:
 layout: docs
 ---
 
-First you will need to create your virtual host:
+First you will need to create the `frmanager.cong` file inside your `/etc/apache2/sites-available/` folder:
 
 After that configure your apache virtual host:
 
