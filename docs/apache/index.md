@@ -58,6 +58,10 @@ Enable your virtual host with:
 ```bash
 a2ensite enable frmanager.conf
 ```
+Change the permissions to your folder:
+```bash
+chown -R www-data:www-data /var/www/FreeRadiusManager
+```
 Then just restart your Apache:
 ```bash
 systemctl restart apache2
