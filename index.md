@@ -77,7 +77,7 @@ sections:
       *   Graphic and metrics dashboard
     actions:
       - label: Get Started
-        url: /docs/getting-started
+        url: /docs
         style: primary
   - section_id: text-no-img
     type: section_content
