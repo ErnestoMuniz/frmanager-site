@@ -65,33 +65,3 @@ Run the `activate.sh` script:
 ```bash
 sh activate.sh
 ```
-
-After that configure your apache virtual host:
-
-```html
-<VirtualHost \*:80>
-ServerAdmin webmaster@localhost
-ServerName frmanager.local
-DocumentRoot /var/www/FreeRadiusManager/public
-
-    <Directory "/var/www/FreeRadiusManager/public">
-            Options FollowSymLinks MultiViews
-            Order Allow,Deny
-            Allow from all
-            AllowOverride All
-            ReWriteEngine On
-    </Directory>
-
-    ErrorLog ${APACHE_LOG_DIR}/error.log
-    CustomLog ${APACHE_LOG_DIR}/access.log combined
-
-</VirtualHost>
-```
-
-Then you must enable Apache Rewrite Module with:
-
-```bash
-sudo a2enmod rewrite
-```
-
-Now your frManager should be ready to use =D
