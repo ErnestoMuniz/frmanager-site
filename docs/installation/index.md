@@ -68,7 +68,8 @@ sh activate.sh
 
 After that configure your apache virtual host:
 
-\<VirtualHost \*:80>
+```html
+<VirtualHost \*:80>
 ServerAdmin webmaster@localhost
 ServerName frmanager.local
 DocumentRoot /var/www/FreeRadiusManager/public
@@ -84,7 +85,8 @@ DocumentRoot /var/www/FreeRadiusManager/public
     ErrorLog ${APACHE_LOG_DIR}/error.log
     CustomLog ${APACHE_LOG_DIR}/access.log combined
 
-\</VirtualHost>
+</VirtualHost>
+```
 
 Then you must enable Apache Rewrite Module with:
 
