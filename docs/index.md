@@ -1,14 +1,14 @@
 ---
 title: Getting Started
 seo:
-  title: Welcome to Libris
+  title: Getting Started
   description: This is the documentation page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Welcome to Libris
+      value: Getting Started
       keyName: property
     - name: 'og:description'
       value: This is the documentation page
@@ -16,20 +16,17 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Welcome to Libris
+      value: Getting Started
     - name: 'twitter:description'
       value: This is the documentation page
 layout: docs
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+Here is a dependency list of what you will need to install frManager:
 
-***
+ - Composer
+ - PHP (at least version 7.2)
+ - Apache or Nginx
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
+That's all you need to get started, let's proceed to the installation guide.
 
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
-
-[Morbi ac vulputate enim](https://stackbit.com)
-
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.

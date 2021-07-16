@@ -3,7 +3,7 @@ title: Changelog
 subtitle: Here you can take a look at all changes we made in the project
 image: images/5.jpg
 seo:
-  title: Theme Style Guide
+  title: frManager - Changelog
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
