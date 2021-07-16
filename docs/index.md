@@ -21,12 +21,11 @@ seo:
       value: This is the documentation page
 layout: docs
 ---
-
 Here is a dependency list of what you will need to install frManager:
 
- - Composer
- - PHP (at least version 7.2)
- - Apache or Nginx
+*   Composer
+*   PHP (at least version 7.2)
+*   Apache or Nginx
+*   FreeRadius server already installed
 
 That's all you need to get started, let's proceed to the installation guide.
-
