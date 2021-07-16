@@ -65,3 +65,5 @@ Run the `activate.sh` script:
 ```bash
 sh activate.sh
 ```
+
+Then your installation is done, you can now proceed to the Apache configuration guide.
