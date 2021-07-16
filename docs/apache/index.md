@@ -25,6 +25,11 @@ seo:
 layout: docs
 ---
 
+First you will need to create your virtual host:
+```bash
+
+```
+
 After that configure your apache virtual host:
 
 ```html
