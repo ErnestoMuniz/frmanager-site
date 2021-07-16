@@ -58,5 +58,9 @@ Enable your virtual host with:
 ```bash
 a2ensite enable frmanager.conf
 ```
+Then just restart your Apache:
+```bash
+systemctl restart apache2
+```
 
 Now your frManager should be ready to use =D
