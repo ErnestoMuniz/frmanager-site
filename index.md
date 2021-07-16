@@ -35,7 +35,6 @@ sections:
             url: /changelog
             style: link
       - title: "Found a Bug?\_\U0001F41E"
-        title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
           If you found any bug, security breach or unusual behavior in the
